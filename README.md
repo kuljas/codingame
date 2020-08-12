@@ -1,3 +1,3 @@
 # codingame
 
-Some of the mine solutions for codingame puzzles.
+Some of the my solutions for codingame puzzles.
